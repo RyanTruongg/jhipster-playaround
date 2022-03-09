@@ -108,6 +108,7 @@
   },
   "defaultProject": "bug-tracker-j-hipster",
   "cli": {
+    "analytics": false,
     "cache": {
       "enabled": true,
       "path": "./target/angular/",
